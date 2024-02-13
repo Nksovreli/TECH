@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'user_app',
     'mptt',
     'content',
+    'app',
+    'adminsortable2',
 ]
 
 MIDDLEWARE = [
